@@ -1,0 +1,6 @@
+{
+  "name": "Verify & Redirect Portal",
+  "description": "A clean, dark-themed two-page verification and automatic redirect portal with Telegram and YouTube quick links.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
